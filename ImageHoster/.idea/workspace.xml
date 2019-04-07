@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c332855e-1472-4d27-ab03-26b600a6ba8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/ImageHosterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/config/JpaConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/controller/ImageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/model/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/model/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/model/UserProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/repository/ImageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/repository/TagRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/service/ImageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/service/TagService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/tachyons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/images.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/images/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/images/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/images/upload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/users/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/users/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ImageHoster/controller/CommentControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ImageHoster/controller/HomeControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ImageHoster/controller/ImageControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ImageHoster/controller/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ImageHoster/config/JpaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ImageHoster/config/JpaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -701,7 +674,7 @@
     <property name="SearchEverywhereHistoryKey" value="imagere&#9;FILE&#9;file://E:/MVC_parallel/ImageHoster_solution_13/ImageHoster/src/main/java/ImageHoster/repository/ImageRepository.java&#10;imagec&#9;FILE&#9;file://E:/MVC_parallel/ImageHoster_solution_13/ImageHoster/src/main/java/ImageHoster/controller/ImageController.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554618605266" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554618929116" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -765,16 +738,15 @@
       <workItem from="1541425509097" duration="2191000" />
       <workItem from="1541430847431" duration="899000" />
       <workItem from="1541482181542" duration="4602000" />
-      <workItem from="1554617902648" duration="760000" />
+      <workItem from="1554617902648" duration="1026000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133509000" />
+    <option name="totallyTimeSpent" value="133775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -782,9 +754,9 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.19402985" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.19402985" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.48754063" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.062193125" />
       <window_info anchor="bottom" id="Java Enterprise" order="3" />
